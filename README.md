@@ -1,0 +1,1 @@
+This rep is for the javascript - week 1 assignment
